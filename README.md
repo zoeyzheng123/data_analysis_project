@@ -5,6 +5,8 @@ This repo include a collection of projects I have worked on for Udacity Machine 
 This is the list of projects
 
 ### Dog Breed Classifier 
+The dog breed classifier is image multiclassification problem. Given a set of images that are all labeled with a single category, we are asked to build neural network to understand the characteristics of each classes and predict these breeds for a novel set of test images and measure the accuracy of the predictions.  At the end of this project, the code will accept any user-supplied image as input. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. Here is an example of final output. 
+
 
 ### Plagiarism_detector
 
